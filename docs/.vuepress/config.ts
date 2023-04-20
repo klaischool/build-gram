@@ -26,6 +26,7 @@ export default defineUserConfig({
   }),
   /* THEME CONFIG: https://v2.vuepress.vuejs.org/guide/theme.html  */
   theme: defaultTheme({
+
     navbar: [
       {
         text: 'Courses',

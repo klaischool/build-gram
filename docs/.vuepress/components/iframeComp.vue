@@ -2,7 +2,7 @@
   <iframe
     width="940"
     height="600"
-    src="https://stackblitz.com/edit/js-pd7hfx?embed=1&file=index.js"
+    src="https://stackblitz.com/edit/js-p5x9lq?devToolsHeight=33&embed=1&file=index.js&hideExplorer=1&hideNavigation=1"
   ></iframe>
 </template>
 
