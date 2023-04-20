@@ -5,6 +5,10 @@ As a developer, you must be aware of that VuePress has two main parts: Node App 
 
 ## Header JS
 
+ <!-- <iframe width="600" height="600" src="https://stackblitz.com/edit/js-pd7hfx?embed=1&file=index.js"></iframe> -->
+
+<iframeComp ihtml="https://stackblitz.com/edit/js-pd7hfx?embed=1&file=index.js"></iframeComp>
+
 :::: tabs
 
 ::: tab JS
